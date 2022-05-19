@@ -12,4 +12,4 @@ Project Archway Liquid Staking
 
 ## Flows:
 
-![Contract flows](docs/contracts-diagram.png)
+![Contract flows](docs/contract-flows.png)
